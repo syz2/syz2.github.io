@@ -1,2 +1,2 @@
 # syz2.github.io
-my first website
+My first website, syz. Starting from 2019-05-09.
